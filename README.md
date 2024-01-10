@@ -16,7 +16,7 @@
   - Implemented a file transfer system over TCP/IP via Python code.
   - Worked with a variety of scheduling algorithms in Python.
   - Developed a website monitoring (tracking access to a website based on country) in C, with appropriate memory allocation.
-   -Refactored a concurrent dependency discoverer algorithm to be multithreaded in C++.
+  - Refactored a concurrent dependency discoverer algorithm to be multithreaded in C++.
   - Participated in peer-review exercises for a number of these projects.
   - Worked with a variety of compression algorithms (Huffman, LZW, etc.) in finding out their compression ratios in Java.
   - Implemented various data processing algorithms including basic optimisation in numpy (python).
