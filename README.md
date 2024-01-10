@@ -24,7 +24,7 @@
   - Worked in a team to develop an online multiplayer card game in Unity over 7 months, while practising industry standard professional methods (online repositories, code reviews, etc.).
   - Used the compiler generator tool ANTLR to extend an existing basic compiler including syntactic analysis, contextual analysis, and code generation.
   - Researched, designed and developed a program which handles automated exercise and solution generation for chosen algorithmics courses, using Java, LaTeX and GitHub. (Level 4 Dissertation, year-long project)
-Applied discrete state-space search methods in Python (including designing states and actions) to minimise the Mondrian score of variable sized squares.
+  - Applied discrete state-space search methods in Python (including designing states and actions) to minimise the Mondrian score of variable sized squares.
   - Worked in a team to develop an efficient batch-based text search and filtering pipeline in Apache Spark, which works in big data systems.
   - Collaborated in a team to calculate the expected number of block accesses of given SQL queries on different data structures.
   - Implemented a simple programming language (Turtle) using functional programming in Haskell.
