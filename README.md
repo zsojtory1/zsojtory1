@@ -31,6 +31,9 @@
   - Used machine learning techniques to create and analyse document-topic and topic-word dirichlet distributions.
   - Evaluated the performance of different natural language processing models at classifying lines from the show South Park to their corresponding characters.
   - Conducted experiments comparing the performance of MiniZinc constraint program and integer program solvers on the same problem
+  - Worked in MiniZinc as well as other constraint programming tools to solve NP-hard problems
+  - Developed an image inpainting tool using DCGAN in Pytorch
+  - Designed and developed a custom ChatGPT tool for Large Language Model-aided pair programming specifically for algorithm tracing. 
 
 
 <!---
