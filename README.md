@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zsojtory1
 - 👀 I’m interested in data science and back-end development.
-- 🌱 I’m an MSci graduate of Computing Science (in Data Management) at the University of Glasgow.
+- 🌱 I’m an MSci graduate of Computing Science (with specialism in Data Management) at the University of Glasgow.
 - 📫 How to reach me zsojtory1@gmail.com
 
 ## Software Development Projects
